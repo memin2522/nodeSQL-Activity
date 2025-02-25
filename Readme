@@ -1,4 +1,4 @@
 1. Check if node is installed in the pc. In the cmd use "node --version"
 2. Create a new folder and open it on the cmd and use the command "npm init -y"
 3. Install mysql module using "npm install mysql2"
-4. To run the program use "fileName.js"
+4. To run the program use "node fileName.js"
