@@ -3,7 +3,7 @@ const config = {
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'spotify_wrapped'
+    database: 'icetex'
 };
 
 class SqlConnection{
